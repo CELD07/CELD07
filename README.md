@@ -1,6 +1,4 @@
-![id]( https://github.com/celd-07/celd-07/blob/main/cristian.png) 
 # Cristhian Ernesto Lugo Dorta 
-
 
 ## Education
 * **2020-2022** Basic secondary education *Generación del Centenario, Matanzas, Cuba*
@@ -12,10 +10,7 @@
 Spanish *Native*
 
 #### Programming language
-<img src="https://github.com/celd-07/celd-07/blob/main/img/c.svg" title="C++"  width="50" height="50">
-<img src="https://github.com/celd-07/celd-07/blob/main/img/bash.png" title="Bash"  width="50" height="50">
-<img src="https://github.com/celd-07/celd-07/blob/main/img/python.png" title="Python"  width="50" height="50">
-<img src="https://github.com/celd-07/celd-07/blob/main/img/sql.png" title="SQL"  width="50" height="50">
+<img src="https://github.com/celd-07/celd-07/blob/main/img/c.svg" title="C++"  width="50" height="50"><img src="https://github.com/celd-07/celd-07/blob/main/img/bash.png" title="Bash"  width="50" height="50"><img src="https://github.com/celd-07/celd-07/blob/main/img/python.png" title="Python"  width="50" height="50"><img src="https://github.com/celd-07/celd-07/blob/main/img/sql.png" title="SQL"  width="50" height="50">
 
 #### Version control
 <img src="https://github.com/celd-07/celd-07/blob/main/img/git.svg" title="Git"  width="50" height="50">
