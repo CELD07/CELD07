@@ -31,6 +31,7 @@ Spanish *Native*
 * **2025** National computer science competition
 * **2025** National preselection for computer science
 * **2025** Ibero-American Olympiad in Informatics
+* **2025** International Olympiad in Informatics
 
 ## Awards
 * **2022** Gold Medal at the provincial computer science competition
@@ -43,7 +44,9 @@ Spanish *Native*
 * **2025** Gold Medal at the National computer science competition
 * **2025** Silver Medal at Ibero-American Olympiad in Informatics
 * **2025** Honourable Mention at the International Olympiad in Informatics
+
 ## Certificates
+<img src="https://github.com/celd-07/celd-07/blob/main/img/certificado.jpg" title="Course Html. Sololearn platform"  width="138" height="91"><img src="https://github.com/celd-07/celd-07/blob/main/img/certificado(1).png" title="Course Html. Sololearn platform"  width="138" height="91"><img src="https://github.com/celd-07/celd-07/blob/main/img/cer_sololearn_c++.png" title="Course Html. Sololearn platform"  width="138" height="91">
 
 
 
