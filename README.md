@@ -46,7 +46,7 @@ Spanish *Native*
 * **2025** Honourable Mention at the International Olympiad in Informatics
 
 ## Certificates
-<img src="https://github.com/CELD07/CELD07/blob/main/img/certificado.jpg" title="Ibero-American Olympiad in Informatics 2025(medal)"  width="138" height="91"><img src="https://github.com/CELD07/CELD07/blob/main/img/certificado(1).png" title="Ibero-American Olympiad in Informatics 2024(medal)"  width="138" height="91"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_sololearn_c++.png" title="Course C++. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/CELD07/CELD07/blob/main/img/cer_ibero-american_medal_2025.jpg" title="Ibero-American Olympiad in Informatics 2025(medal)"  width="138" height="91"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_ibero-american_medal_2024.png" title="Ibero-American Olympiad in Informatics 2024(medal)"  width="138" height="91"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_sololearn_c++.png" title="Course C++. Sololearn platform"  width="138" height="91">
 
 
 
