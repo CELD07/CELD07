@@ -12,7 +12,7 @@
 * English *Intermediate*
 
 ## Experience
-* **2025-2026** Desoft. Developer. Business Solutions on Odoo. Implementation of addons for projects as:
+* **2025-2026** [Desoft]("https://www.desoft.cu/es"). Developer. Business Solutions on Odoo. Implementation of addons for projects as:
     - Project Poligrafico
     - Project SoPos
     - Project PROVEA
