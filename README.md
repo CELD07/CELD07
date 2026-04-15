@@ -11,6 +11,11 @@
 * Spanish *Native*
 * English *Intermediate*
 
+## Experience
+* **2025-2026** Desoft. Developer. Business Solutions on Odoo. Implementation of addons for projects as:
+    - Project Poligrafico
+    - Project SoPos
+    - Project PROVEA
 
 ## Tools and technologies
 
