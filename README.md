@@ -16,6 +16,7 @@
     - Project Poligrafico
     - Project SoPos
     - Project PROVEA
+* **2025-2026** Vocational Preuniversity Institute of Exact Sciences Carlos Marx of Matanzas. Competitive programming coach. Matanzas
 
 ## Tools and technologies
 
