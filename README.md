@@ -21,8 +21,10 @@
 <img src="https://github.com/CELD07/CELD07/blob/main/img/git.svg" title="Git"  width="50" height="50">
 
 #### ERP
-<img src="https://github.com/vasha54/vasha54/blob/main/img/odoo.svg" title="Odoo"  width="50" height="50"> *Development of basic addon structures in Odoo versions 17 and 18. Implementation of addons that consume external APIs and convert data into Odoo models. Design of visual interfaces for forms and tree views.*
+<img src="https://github.com/CELD07/CELD07/blob/main/img/odoo.svg" title="Odoo"  width="50" height="50"> *Development of basic addon structures in Odoo versions 17 and 18. Implementation of addons that consume external APIs and convert data into Odoo models. Design of visual interfaces for forms and tree views.*
 
+#### Virtualization
+<img src="https://github.com/CELD07/CELD07/blob/main/img/docker.svg" title="Docker"  width="100" height="50">
 
 ## Events
 * **2022** Provincial computer science competition
