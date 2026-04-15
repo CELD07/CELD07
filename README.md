@@ -51,6 +51,9 @@
 * **2025** Silver Medal at Ibero-American Olympiad in Informatics
 * **2025** Honourable Mention at the International Olympiad in Informatics
 
+## Competitive Programming
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=CELD_07&theme=darcula&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/CELD_07)
+
 ## Certificates
 <img src="https://github.com/CELD07/CELD07/blob/main/img/cer_icpc_qualifier_2023_medal.png" title="ICPC-Qualifier-2023 medal"  width="150" height="212"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_icpc_qualifier_2024_medal.png" title="ICPC-Qualifier-2024 medal"  width="150" height="212"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_icpc_regional_final_invitation.png" title="ICPC-Caribean-Finals-2024 invitation"  width="150" height="212"><img src="https://github.com/CELD07/CELD07/blob/main/img/invitation_IOI.png" title="International Olympiad in Informatics 2025(medal)"  width="150" height="212">
 
