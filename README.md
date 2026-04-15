@@ -24,7 +24,7 @@
 <img src="https://github.com/CELD07/CELD07/blob/main/img/odoo.svg" title="Odoo"  width="50" height="50"> *Development of basic addon structures in Odoo versions 17 and 18. Implementation of addons that consume external APIs and convert data into Odoo models. Design of visual interfaces for forms and tree views.*
 
 #### Virtualization
-<img src="https://github.com/CELD07/CELD07/blob/main/img/docker.svg" title="Docker"  width="100" height="50">
+<img src="https://github.com/CELD07/CELD07/blob/main/img/docker.svg" title="Docker"  width="100" height="50"> *Basic work with Docker images and containers*
 
 ## Events
 * **2022** Provincial computer science competition
