@@ -45,8 +45,11 @@
 * **2024** IPVCE Regional Cup
 * **2025** National computer science competition
 * **2025** National preselection for computer science
+* **2025** Qualified for the international IT olympiad
+* **2025** UHO Programming Cup of the University of Holguin
 * **2025** Ibero-American Olympiad in Informatics
 * **2025** International Olympiad in Informatics
+* **2026** JetBrains BlackBox Cup 2026
 
 ## Awards
 * **2022** Gold Medal at the provincial computer science competition
@@ -57,8 +60,10 @@
 * **2024** Bronze Medal at the IPVCE Regional Cup
 * **2024** Gold Medal at the ICPC Caribbean Finals (Qualifier). Preuniversity Teams.
 * **2025** Gold Medal at the National computer science competition
+* **2025** First place among the invited (online) contestants in the UHO Programming Cup of the University of Holguin
 * **2025** Silver Medal at Ibero-American Olympiad in Informatics
 * **2025** Honourable Mention at the International Olympiad in Informatics
+* **2025** University scholarship in Computer Science at the University of Havana for obtaining an honorable mention in the International Olympiad in Informatics (IOI) Bolivia 2025
 
 ## Competitive Programming
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=CELD_07&theme=darcula&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/CELD_07)
