@@ -7,9 +7,8 @@
 ## Education Online
 
 ## Idioms
-Spanish *Native*
-
-English *Intermediate*
+* Spanish *Native*
+* English *Intermediate*
 
 #### Programming language
 <img src="https://github.com/CELD07/CELD07/blob/main/img/c.svg" title="C++"  width="50" height="50"><img src="https://github.com/CELD07/CELD07/blob/main/img/bash.png" title="Bash"  width="50" height="50"><img src="https://github.com/CELD07/CELD07/blob/main/img/python.png" title="Python"  width="50" height="50"><img src="https://github.com/CELD07/CELD07/blob/main/img/sql.png" title="SQL"  width="50" height="50">
