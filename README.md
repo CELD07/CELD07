@@ -10,12 +10,17 @@
 * Spanish *Native*
 * English *Intermediate*
 
+
+## Tools and technologies
+
 #### Programming language
 <img src="https://github.com/CELD07/CELD07/blob/main/img/c.svg" title="C++"  width="50" height="50"><img src="https://github.com/CELD07/CELD07/blob/main/img/bash.png" title="Bash"  width="50" height="50"><img src="https://github.com/CELD07/CELD07/blob/main/img/python.png" title="Python"  width="50" height="50"><img src="https://github.com/CELD07/CELD07/blob/main/img/sql.png" title="SQL"  width="50" height="50">
 
 #### Version control
 <img src="https://github.com/CELD07/CELD07/blob/main/img/git.svg" title="Git"  width="50" height="50">
 
+#### ERP
+<img src="https://github.com/vasha54/vasha54/blob/main/img/odoo.svg" title="Odoo"  width="50" height="50"> *Development of basic addon structures in Odoo versions 17 and 18. Implementation of addons that consume external APIs and convert data into Odoo models. Design of visual interfaces for forms and tree views.*
 
 
 ## Events
