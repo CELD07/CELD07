@@ -5,6 +5,7 @@
 * **2022-2025** Vocational Preuniversity Institute of Exact Sciences *Carlos Marx, Matanzas, Cuba*
 
 ## Education Online
+<img src="https://github.com/CELD07/CELD07/blob/main/img/cer_sololearn_c++.png" title="Course C++. Sololearn platform"  width="150" height="106">
 
 ## Idioms
 * Spanish *Native*
@@ -57,7 +58,7 @@
 ## Certificates
 <img src="https://github.com/CELD07/CELD07/blob/main/img/cer_icpc_qualifier_2023_medal.png" title="ICPC-Qualifier-2023 medal"  width="150" height="212"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_icpc_qualifier_2024_medal.png" title="ICPC-Qualifier-2024 medal"  width="150" height="212"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_icpc_regional_final_invitation.png" title="ICPC-Caribean-Finals-2024 invitation"  width="150" height="212"><img src="https://github.com/CELD07/CELD07/blob/main/img/invitation_IOI.png" title="International Olympiad in Informatics 2025(medal)"  width="150" height="212">
 
-<img src="https://github.com/CELD07/CELD07/blob/main/img/cer_ibero-american_medal_2025.jpg" title="Ibero-American Olympiad in Informatics 2025(medal)"  width="150" height="106"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_ibero-american_medal_2024.png" title="Ibero-American Olympiad in Informatics 2024(medal)"  width="150" height="106"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_sololearn_c++.png" title="Course C++. Sololearn platform"  width="150" height="106"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_IOI_achievement.png" title="IOI 2025 achievement"  width="150" height="106"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_IOI_paricipation.png" title="IOI 2025 participation"  width="150" height="106">
+<img src="https://github.com/CELD07/CELD07/blob/main/img/cer_ibero-american_medal_2025.jpg" title="Ibero-American Olympiad in Informatics 2025(medal)"  width="150" height="106"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_ibero-american_medal_2024.png" title="Ibero-American Olympiad in Informatics 2024(medal)"  width="150" height="106"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_IOI_achievement.png" title="IOI 2025 achievement"  width="150" height="106"><img src="https://github.com/CELD07/CELD07/blob/main/img/cer_IOI_paricipation.png" title="IOI 2025 participation"  width="150" height="106">
 
 
 
